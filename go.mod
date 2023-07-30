@@ -3,8 +3,8 @@ module github.com/gdt-dev/examples
 go 1.19
 
 require (
-	github.com/gdt-dev/gdt v1.0.1
-	github.com/gdt-dev/http v1.0.0
+	github.com/gdt-dev/gdt v1.1.0
+	github.com/gdt-dev/http v1.1.0
 	github.com/google/uuid v1.3.0
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.27.10

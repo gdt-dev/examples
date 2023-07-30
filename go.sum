@@ -9,10 +9,10 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
 github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWoS4=
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
-github.com/gdt-dev/gdt v1.0.1 h1:U7s/NrTobFmV0kL8rO7ZRX7XER9oxFqaWf6J6TvKeTU=
-github.com/gdt-dev/gdt v1.0.1/go.mod h1:StnyGjC/67u59La2u6fh3HwW9MmodVhKdXcLlkgvNSY=
-github.com/gdt-dev/http v1.0.0 h1:Q+c8MhTcDNsMU/PtLJQ/NRoBY/1s6VnmsqYjdukCkzU=
-github.com/gdt-dev/http v1.0.0/go.mod h1:jsNH5UBYvzfSqM6I9Ph799jxYKp+1Nc2C7OAV9LNz5Y=
+github.com/gdt-dev/gdt v1.1.0 h1:+eFYFSibOYCTFKqoACx2CefAbErmBmFWXG7kDioR5do=
+github.com/gdt-dev/gdt v1.1.0/go.mod h1:StnyGjC/67u59La2u6fh3HwW9MmodVhKdXcLlkgvNSY=
+github.com/gdt-dev/http v1.1.0 h1:sAPXT2YoJRFeyWFC7ypQpnuerBtiXEeSAHnyFfwMSGg=
+github.com/gdt-dev/http v1.1.0/go.mod h1:XoNWUZgTY8lTqv00hfa2RE/m3i+6x0k0omQLEb58WYg=
 github.com/go-logr/logr v1.2.4 h1:g01GSCwiDw2xSZfjJ2/T9M+S6pFdcNtFYsp+Y43HYDQ=
 github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0/go.mod h1:fyg7847qk6SyHyPtNmDHnmrv/HOrqktSC+C9fM+CJOE=
 github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 h1:tfuBGBXKqDEevZMzYi5KSi8KkcZtzBcTgAUUtapy0OI=
