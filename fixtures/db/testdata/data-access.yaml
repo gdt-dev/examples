@@ -1,0 +1,12 @@
+fixtures:
+ - db
+tests:
+ - exec: sqlite3 test.db "SELECT COUNT(*) FROM users"
+   assert:
+     out:
+       is: 3
+ - exec: sqlite3 test.db "INSERT INTO users (id, name, created_on) VALUES (4, 'David', DATETIME())"
+ - exec: sqlite3 test.db "SELECT COUNT(*) FROM users"
+   assert:
+     out:
+       is: 4
